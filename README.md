@@ -5,7 +5,7 @@ Laboratory Lab Safety site with Lab Safety Information, Templates, and Issues
 
 ## Key Links
 
-[University of Wasshington Environmental Health and Safety Webpage](https://www.ehs.washington.edu/research-lab/laboratory-safety)
+[University of Washington Environmental Health and Safety Webpage](https://www.ehs.washington.edu/research-lab/laboratory-safety)
 
 [Lab Safety Manual](https://ehs.washington.edu/system/files/resources/lsm.pdf)
 
