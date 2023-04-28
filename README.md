@@ -9,6 +9,8 @@ Laboratory Lab Safety site with Lab Safety Information, Templates, and Issues
 
 [Lab Safety Manual](https://ehs.washington.edu/system/files/resources/lsm.pdf)
 
+[Safety Dashboard](https://labsurvey.ehs.washington.edu/pi/dashboard.php?IDlab=184&PI=Zaneveld&labID=ZANEVELD-184-1146)
+
 [MyChem Inventory for the Lab](https://mychem.ehs.washington.edu/Inventory/InventoryList?roomOwnerID=10873&page=1)
 
 All [Material Safety Data Sheets](./MSDS/) (MSDS) for the lab.  
