@@ -15,6 +15,8 @@ All [Material Safety Data Sheets](./MSDS/) (MSDS) for the lab.
 
 [Training Records for the lab](./Training)
 
+[Floor_Plan](./Floor_Plan/floor_plan.jpg)
+
 ## QR Code for this Page
 
 <img src="./resources/QR_code.png" width="400"  description="A QR code for accessing this page, github.com/zaneveld/lab_safety/">
