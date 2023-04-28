@@ -11,3 +11,5 @@ Laboratory Lab Safety site with Lab Safety Information, Templates, and Issues
 [MyChem Inventory for the Lab](https://mychem.ehs.washington.edu/Inventory/InventoryList?roomOwnerID=10873&page=1)
 
 All [Material Safety Data Sheets](./MSDS/) (MSDS) for the lab.  
+
+[Training Records for the lab](./Training)
