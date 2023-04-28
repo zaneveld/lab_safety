@@ -22,3 +22,7 @@ All [Material Safety Data Sheets](./MSDS/) (MSDS) for the lab.
 <img src="./resources/QR_code.png" width="400"  description="A QR code for accessing this page, github.com/zaneveld/lab_safety/">
 
 ### Text link for this page: go to github.com/zaneveld/lab_safety/ on any device
+
+## Floor Plan
+
+<img src="./Floor_Plan/floor_plan.jpeg" width="400"  description="A QR code for accessing this page, github.com/zaneveld/lab_safety/">
