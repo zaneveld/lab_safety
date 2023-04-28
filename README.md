@@ -25,4 +25,4 @@ All [Material Safety Data Sheets](./MSDS/) (MSDS) for the lab.
 
 ## Floor Plan
 
-<img src="./Floor_Plan/floor_plan.jpeg" width="400"  description="A QR code for accessing this page, github.com/zaneveld/lab_safety/">
+<img src="./Floor_Plan/floor_plan.jpeg" width="600"  description="A QR code for accessing this page, github.com/zaneveld/lab_safety/">
