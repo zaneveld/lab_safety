@@ -19,6 +19,10 @@ All [Material Safety Data Sheets](./MSDS/) (MSDS) for the lab.
 
 [Floor_Plan](./Floor_Plan/floor_plan.jpeg)
 
+## New Lab Members
+
+[Lab Safety Orientation Form](https://docs.google.com/forms/d/e/1FAIpQLSeHqHJFNW4uB26Kx482ErE_dhOxjHXJt10eQYRgnki2GbXjMw/viewform?usp=pp_url)
+
 ## QR Code for this Page
 
 <img src="./resources/QR_code.png" width="400"  description="A QR code for accessing this page, github.com/zaneveld/lab_safety/">
