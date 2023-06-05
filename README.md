@@ -21,6 +21,8 @@ All [Material Safety Data Sheets](./MSDS/) (MSDS) for the lab.
 
 ## New Lab Members
 
+Welcome to the lab! Before you start work, be sure of the following:
+1. You are either an employee or have filled out a [volunteer form](https://www.uwb.edu/getattachment/stem/laboratories/links-and-forms/UWBofficialVolunteerWorkers.pdf?lang=en-US) 
 [Lab Safety Orientation Form](https://docs.google.com/forms/d/e/1FAIpQLSeHqHJFNW4uB26Kx482ErE_dhOxjHXJt10eQYRgnki2GbXjMw/viewform?usp=pp_url)
 
 ## QR Code for this Page
