@@ -24,6 +24,8 @@ All [Material Safety Data Sheets](./MSDS/) (MSDS) for the lab.
 Welcome to the lab! Before you start work, be sure of the following:
 1. You are either an employee or have filled out a [volunteer form](https://www.uwb.edu/getattachment/stem/laboratories/links-and-forms/UWBofficialVolunteerWorkers.pdf?lang=en-US) 
 2. You have gotten oriented to the lab and where key items (Fire Extinguisher, Spill Kit, etc) are with a Lab Safety Orientation, then recorded it in the [Lab Safety Orientation Form](https://docs.google.com/forms/d/e/1FAIpQLSeHqHJFNW4uB26Kx482ErE_dhOxjHXJt10eQYRgnki2GbXjMw/viewform?usp=pp_url)
+3. Worked with a supervisor to fill out the Safety Training Assesment
+4. [Completed required or recommended trainings](https://www.ehs.washington.edu/training/find-your-course?sort=title2&order=asc)
 
 ## QR Code for this Page
 
