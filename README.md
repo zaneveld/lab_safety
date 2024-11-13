@@ -35,4 +35,4 @@ Welcome to the lab! Before you start work, be sure of the following:
 
 ## Floor Plan
 
-<img src="./Floor_Plan/floor_plan.jpeg" width="600"  description="A QR code for accessing this page, github.com/zaneveld/lab_safety/">
+<img src="./Floor_Plan/INV_231_Floor_Plan.png" width="800"  description="A floor plan map for the Zaneveld Lab. Eyewash is by the Zaneveld Lab bench. Chemical shower is through 231E">
