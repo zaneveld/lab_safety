@@ -17,7 +17,7 @@ All [Material Safety Data Sheets](./MSDS/) (MSDS) for the lab.
 
 [Training Records for the lab](./Training)
 
-[Floor_Plan](./Floor_Plan/floor_plan.jpeg)
+[Floor_Plan](./Floor_Plan/INV_231_Floor_Plan.png)
 
 ## New Lab Members
 
