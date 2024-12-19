@@ -11,17 +11,18 @@ Laboratory Lab Safety site with Lab Safety Information, Templates, and Issues fo
 
 [Safety Dashboard](https://labsurvey.ehs.washington.edu/pi/dashboard.php?IDlab=184&PI=Zaneveld&labID=ZANEVELD-184-1146)
 
-[Safety Training Assessment](./resources/ehslabsafetytrainmatrix_JZ.png)
-
-[PPE Hazard Assessment](./PPE_matrix/lab-ppe-hazard-assessment_filled_12192024.pdf)
-
 [MyChem Inventory for the Lab](https://mychem.ehs.washington.edu/Inventory/InventoryList?roomOwnerID=10873&page=1)
 
 All [Material Safety Data Sheets](./MSDS/) (MSDS) for the lab.  
 
-[Training Records for the lab](./Training)
+
 
 [Floor_Plan](./Floor_Plan/INV_231_Floor_Plan.png)
+
+## Safety Training Records and Assessments
+[Training Records for the lab](./Training)
+[PPE Hazard Assessment](./PPE_matrix/lab-ppe-hazard-assessment_filled_12192024.pdf)
+[Safety Training Assessment](./resources/ehslabsafetytrainmatrix_JZ.png)
 
 ## New Lab Members
 
