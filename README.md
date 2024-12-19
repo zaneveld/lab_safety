@@ -21,7 +21,9 @@ All [Material Safety Data Sheets](./MSDS/) (MSDS) for the lab.
 
 ## Safety Training Records and Assessments
 [Training Records for the lab](./Training)
+
 [PPE Hazard Assessment](./PPE_matrix/lab-ppe-hazard-assessment_filled_12192024.pdf)
+
 [Safety Training Assessment](./resources/ehslabsafetytrainmatrix_JZ.png)
 
 ## New Lab Members
