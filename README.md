@@ -34,10 +34,12 @@ Welcome to the lab! Before you start work, be sure of the following:
 2. You have gotten oriented to the lab and where key items (Fire Extinguisher, Spill Kit, etc) are with a Lab Safety Orientation, then recorded it in the [Lab Safety Orientation Form](https://docs.google.com/forms/d/e/1FAIpQLSeHqHJFNW4uB26Kx482ErE_dhOxjHXJt10eQYRgnki2GbXjMw/viewform?usp=pp_url)
 3. Worked with a supervisor to fill out the Safety Training Assesment
 4. Work with a supervisor to go over the Personal Protective Equipment (PPE) assessment so you know what protective equipment to wear when e.g. accessing the -80 freezer or doing a DNA extraction. 
-5. [Completed required or recommended trainings](https://www.ehs.washington.edu/training/find-your-course?sort=title2&order=asc)
+5. [Completed required or recommended trainings](https://www.ehs.washington.edu/training/find-your-course?sort=title2&order=asc). Sign the PPE training sheet in the PPE training folder. PI can help upload to GitHub.
 6. **Before** placing any new chemicals on the shelves, be sure we have added them to MyChem (see link above) *and* we have an MSDS *and* Chemical SOP for it if it's hazardous
 7. **Before** doing a new procedure, be sure you've chatted it out, documented it, and it's stored in procedures
 8. Thanks for helping keep us all safe! Don't be afraid to ask if you need to figure something out (how to dispose of waste, where to order new gloves, etc)
+   
+   
 
 ## QR Code for this Page
 
